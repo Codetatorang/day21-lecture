@@ -1,7 +1,6 @@
 package sg.edu.nus.iss.day21_lecture.model;
 
 import java.io.Serializable;
-import java.util.Date;
 import java.time.LocalDateTime;
 
 import lombok.AllArgsConstructor;
